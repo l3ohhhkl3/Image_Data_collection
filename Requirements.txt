@@ -1,0 +1,7 @@
+numpy
+albumentations
+cv2
+PIL
+natsort
+pandas
+glob
